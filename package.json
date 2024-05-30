@@ -1,0 +1,31 @@
+{
+  "name": "claudia_again",
+  "version": "1.0.0",
+  "description": "claudia bot that influences and inflects",
+  "main": "main.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lostboyz923/claudia_again.git"
+  },
+  "keywords": [
+    "care",
+    "trend",
+    "waves",
+    "inflection",
+    "hook",
+    "lambda"
+  ],
+  "author": "MIller Time",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/lostboyz923/claudia_again/issues"
+  },
+  "homepage": "https://github.com/lostboyz923/claudia_again#readme",
+  "dependencies": {
+    "claudia-bot-builder": "^4.5.0",
+    "huh": "^2.0.1"
+  }
+}
